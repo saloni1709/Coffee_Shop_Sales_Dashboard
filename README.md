@@ -119,7 +119,3 @@ This analysis helps understand:
 
 
 
-B.Tech Computer Science Engineering
-Interested in **Data Science, AI/ML, and Data Analytics**
-
-GitHub: [saloniGoyal01](https://github.com/saloniGoyal01)
